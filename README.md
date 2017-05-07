@@ -3,7 +3,7 @@ GetLogs in Huawei Smartphone
 
  For Get Logs in Huawei Smartphone, You have to:
 
-1. Go to engineer menu "*#*#2846579#*#*"
+1. Go to engineer menu " * # * # 2846579 # * # *"
 2. Open Background Settings
 3. Open Logs
 4. Enable all points
